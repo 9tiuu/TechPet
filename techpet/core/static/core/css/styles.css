@@ -1,0 +1,18 @@
+* {
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.bg-core {
+    background: linear-gradient(#00000000, #00000042), url(../img/job562-nunoon-05.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-header {
+    background: linear-gradient(#0000005b, #0000009c), url(../img/header-bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
